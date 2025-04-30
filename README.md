@@ -1,8 +1,9 @@
 #IMDB Database Design
-=>
+
 TASK => IMDB Design a DB for IMDB 1. Movie should have multiple media(Video or Image) 2. Movie can belongs to multiple Genre 3. Movie can have multiple reviews and Review can belongs to a user 4. Artist can have multiple skills 5. Artist can perform multiple role in a single film
-**
-In this task i've asked to create 5 DB tables which comprises of different columns which i have to decide and implement, Also Instructor told Joins is not required just mention the Primary Key and Foreign key that's enough so i have mentioned those alone and created a very basic IMDB Database.**
+
+In this task i've asked to create 5 DB tables which comprises of different columns which i have to decide and implement, Also Instructor told Joins is not required just mention the Primary Key and Foreign key that's enough so i have mentioned those alone and created a very basic IMDB Database.
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 This is a basic database design for an IMDB-like system. The database consists of five tables representing core entities such as Movies, Artists, Media, Reviews, and Genres. Below is a high-level overview of the design and how these entities are related to each other.
 
